@@ -1,4 +1,5 @@
 # robotics
-Jonah Royzen
-Dong-Gyu Kim
-Richard
+Contributers:
+ Jonah Royzen
+ Dong-Gyu Kim
+ Richard
